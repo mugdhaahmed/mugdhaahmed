@@ -1,7 +1,9 @@
 ![2](https://github.com/user-attachments/assets/1fd673e5-04a3-4cff-b5e8-861263afbed0)<p align="right">
 </p>    
 
-![Profile Banner](https://github.com/pinocchio1053/pinocchio1053/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)
+![MGD Technical Profile Cover](https://github.com/user-attachments/assets/232168a0-d65e-43d6-9955-1757596f138d)
+
+
 
 ---
 
