@@ -1,5 +1,4 @@
-<p align="right">  
-  <img src="https://komarev.com/ghpvc/?username=pinocchio1053&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" /> 
+![2](https://github.com/user-attachments/assets/1fd673e5-04a3-4cff-b5e8-861263afbed0)<p align="right">
 </p>    
 
 ![Profile Banner](https://github.com/pinocchio1053/pinocchio1053/assets/105875914/fa591b5b-7f9a-4dbc-9971-4dd050facf9b)
