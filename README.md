@@ -1,5 +1,4 @@
-![2](https://github.com/user-attachments/assets/1fd673e5-04a3-4cff-b5e8-861263afbed0)<p align="right">
-</p>    
+  
 
 ![MGD Technical Profile Cover](https://github.com/user-attachments/assets/232168a0-d65e-43d6-9955-1757596f138d)
 
