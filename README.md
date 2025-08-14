@@ -100,11 +100,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinocchio1053&layout=compact&show_icons=true&locale=en" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pinocchio1053&show_icons=true&locale=en" width="461" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mugdhaahmed&layout=compact&show_icons=true&locale=en" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mugdhaahmed&show_icons=true&locale=en" width="461" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streaks
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pinocchio1053&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mugdhaahmed&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
