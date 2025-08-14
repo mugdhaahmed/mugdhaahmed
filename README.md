@@ -26,10 +26,10 @@
 
 - 🌱 **Learning:** Laravel, Vue, Inertia, API design  
 - 💬 **Ask me about:** PHP, JavaScript, REST APIs, Laravel  
-- 📧 **Email:** [nusrulnakibnahid.mail@gmail.com](mailto:nusrulnakibnahid.mail@gmail.com)  
-- 🌐 **Portfolio:** [My Website](https://nusrulnakibnahid.github.io/My-Portfolio-Website/)  
-- ⚡ **Fun Fact:** Cristiano Ronaldo is my role model — his mindset keeps me inspired  
-- 🎯 **Hobbies:** Cricket 🏏 | Traveling 🌍  
+- 📧 **Email:** [golamahmedmugdha@gmail.com](mailto:golamahmedmugdha@gmail.com)  
+- 🌐 **Portfolio:** [My Website](https://sites.google.com/view/portfoliopinocchio/home)  
+
+- 🎯 **Hobbies:** Hangouts & Traveling 🌍  
 
 ---
 
